@@ -2,8 +2,9 @@
 
 Run React Native application using
 
+```
 npm start
-
+```
 
 *GitHub:*
 
