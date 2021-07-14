@@ -7,6 +7,7 @@ npm start
 ```
 
 *GitHub:*
-
+https://github.com/aayushichourasiya/diceRoller
 
 *Video Tutorial:*
+https://www.youtube.com/watch?v=Mjs9mRqjsMI
